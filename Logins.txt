@@ -1,0 +1,5 @@
+Admin
+Username - admin, Password - admin
+
+Cashier
+Username - cashier, Password - cashier

@@ -1,0 +1,1 @@
+﻿SELECT * FROM products WHERE date_delete IS NULL
