@@ -11,6 +11,17 @@ This system provides a multi-role interface for Administrators and Cashiers to m
 * **Cashier Interface:** Streamlined interface for managing customer orders and processing transactions in real-time.
 * **Database Integration:** Utilizes SQL Server (LocalDB) to manage inventory, user data, and order history.
 
+## App Screenshots
+
+### Login Interface
+![Login](screenshots/Login Page.png)
+
+### Administrator Dashboard
+![Admin Dashboard](screenshots/admin_dash.png)
+
+### Order Management (Cashier)
+![Cashier](screenshots/cashier.png)
+
 ## Tech Stack
 * **Language:** C#
 * **Framework:** .NET WinForms
