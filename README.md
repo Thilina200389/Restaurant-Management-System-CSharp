@@ -17,10 +17,19 @@ This system provides a multi-role interface for Administrators and Cashiers to m
 ![Login](screenshots/login.png)
 
 ### Administrator Dashboard
-![Admin Dashboard](screenshots/admin_dash.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Cashier Dashboard
+![Cashier Dashboard](screenshots/cashier_interface.png)
 
 ### Order Management (Cashier)
-![Cashier](screenshots/cashier.png)
+![Order](screenshots/order_interface.png)
+
+## Product Management
+![Products](screenshots/product_management.png)
+
+## Customers
+![Customers](screenshots/customers)
 
 ## Tech Stack
 * **Language:** C#
