@@ -14,7 +14,7 @@ This system provides a multi-role interface for Administrators and Cashiers to m
 ## App Screenshots
 
 ### Login Interface
-![Login](screenshots/Login Page.png)
+![Login](screenshots/login.png)
 
 ### Administrator Dashboard
 ![Admin Dashboard](screenshots/admin_dash.png)
