@@ -29,7 +29,7 @@ This system provides a multi-role interface for Administrators and Cashiers to m
 ![Products](screenshots/product_management.png)
 
 ## Customers
-![Customers](screenshots/customers)
+![Customers](screenshots/customers.png)
 
 ## Tech Stack
 * **Language:** C#
