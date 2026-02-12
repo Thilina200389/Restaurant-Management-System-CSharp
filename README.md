@@ -2,7 +2,7 @@
 
 A comprehensive desktop application designed to streamline restaurant operations, including inventory management, order processing, and user administration. This project was developed as a **Group Project (Group J)** for the **Database Systems and Programming** module.
 
-## 🔗 Project Overview
+## Project Overview
 This system provides a multi-role interface for Administrators and Cashiers to manage a restaurant's day-to-day activities efficiently. It uses a local SQL database for persistent data storage.
 
 ## Key Features
